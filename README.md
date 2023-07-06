@@ -9,4 +9,4 @@ Files included:
   
 Related papers:
 - Miguel Lerma and Mirtha Lucas (2023). Pre or Post-Softmax Scores in Gradient-based Attribution Methods, What is Best? - https://arxiv.org/abs/2306.13197
-- Miguel Lerma and Mirtha Lucas (2023). A Vulnerability of Attribution Methods Using Pre-Softmax Scores.
+- Miguel Lerma and Mirtha Lucas (2023). A Vulnerability of Attribution Methods Using Pre-Softmax Scores. - [link to preprint](<https://sites.math.northwestern.edu/~mlerma/papers-and-preprints/A_Vulnerability_of_Attribution_Methods.pdf>)
